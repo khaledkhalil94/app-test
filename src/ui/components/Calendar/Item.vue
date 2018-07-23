@@ -32,7 +32,7 @@
             padding: 10px 0
         .card-content
             background-color: white
-            width: 180px
+            width: 140px
             padding: 20px
             .date
                 color: black

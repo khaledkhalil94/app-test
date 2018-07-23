@@ -21,5 +21,7 @@
   };
 </script>
 
-<style>
+<style lang="sass">
+    body
+        margin: 0
 </style>
